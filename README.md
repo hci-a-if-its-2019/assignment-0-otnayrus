@@ -10,12 +10,12 @@ Any.do is an application that is used for task management, reminding, and schedu
 ### 1.1 What's bad?
 - **Task cannot be scheduled automatically** this makes the schedule looks not organized, and difficult to search.
 - **No warning when creating same task** this makes the plan can consist of multiple same items.
-![img1](img/1.png)
+<img src="img/1.png" width="100">
 
 ### 1.2 Suggestion
 - Automatically sorting list when a task is added to the list
 - Double checking multiple task confirmation
-![img2](img/2.png)
+<img src="img/2.png" width="100">
 
 ## 2. Blibli.com Desktop Homepage
 Blibli.com is a online marketplace.
